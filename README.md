@@ -26,6 +26,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+
 ## Submission
 
 Deployed URL: https://natswatch.github.io/horiseon
